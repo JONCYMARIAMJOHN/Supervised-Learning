@@ -7,3 +7,6 @@ A python project which analyses the breast cancer dataset to predict the possibi
 3. Random Forest Classifier
 4. Support Vector Machine (SVM)
 5. k-Nearest Neighbors (k-NN)
+
+## Conclusion
+Based on all the model comparison scores SVM is the best performing algorithm and Decision Tree is the worst performing algorithm.
